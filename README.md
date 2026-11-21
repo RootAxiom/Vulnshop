@@ -1,9 +1,3 @@
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Maintenance](https://img.shields.io/badge/maintenance-stopped-red)
-
-> [!NOTE]  
-> **Completed as part of a summer internship project**  
-> and now its no longer actively maintained.
 
 # VulnShop
 
